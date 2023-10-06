@@ -24,3 +24,4 @@ req5 L
 fout 
 req5 R
 fout 
+req6 S
