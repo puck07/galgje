@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| |A| | |E| |
+| |A| | |E|N|
 
 |-|-|-|-|-|-|
 
@@ -17,3 +17,4 @@ goed!
 req2 E
 goed!
 req3 N
+goed!
